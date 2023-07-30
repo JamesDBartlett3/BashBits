@@ -1,4 +1,8 @@
 {
+<<<<<<< HEAD
 	"powershell.integratedConsole.showOnStartup": false,
 	"editor.insertSpaces": false
+=======
+  "powershell.integratedConsole.showOnStartup": false
+>>>>>>> e84a16ce635beab7fe91175834edd368769bb00d
 }
